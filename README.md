@@ -41,4 +41,6 @@ $ python check.py
 
 最后，关闭命令框可以退出程序。
 
+<img src="./imgs/example1.png" style="zoom: 33%;" /> <img src="./imgs/example2.png" style="zoom:50%;" />
+
 **提示：图片共有65张，随机出图。读图最好在3～5秒内给出答案，最长不能超过10秒。正常色觉的人也有可能读错某些图，偶有读错没关系，如果错的比例很大，则建议去正规医院检查。**
