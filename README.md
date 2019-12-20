@@ -6,7 +6,7 @@
 
 
 ## 使用exe程序
-
+下载[smjc.zip](https://github.com/HxxAddoil/color_blindness_check/releases/tag/1.0)，解压缩，然后运行smjc.exe即可。
 
 
 ## 使用源代码
